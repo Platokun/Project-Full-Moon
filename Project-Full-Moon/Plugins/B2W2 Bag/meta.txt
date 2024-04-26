@@ -1,0 +1,4 @@
+Name = B2W2 Bag Updated for v21.1
+Version = 1.0
+Essentials = 21.1
+Credits = LackDejurane, Erassus. A.I.R for Essentials v21.1 version.

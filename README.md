@@ -7,6 +7,8 @@
 - v21.1 Hotfixes (Maruno)
 ### Mods from the comunity
 - SUPERCAPSULE -- (Kirik, Marin, Maruno, AiurJordan, Apples, ThatWelshOne_, dpertierra, EconomicAtom)
+- Automatic-Level-Scaling https://github.com/Benitex/Automatic-Level-Scaling
+
 ### New Additions
 - Infinity candy (NaruZkurai)
 - Old Candy (NaruZkurai)
